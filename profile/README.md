@@ -1,6 +1,6 @@
 # H5BP ♥ Open Source
 
-![GitHub Org's stars](https://img.shields.io/github/stars/h5bp?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/h5bp?style=social) 
+![GitHub Org's stars](https://img.shields.io/github/stars/h5bp?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/h5bp?style=social) ![npm](https://img.shields.io/npm/dm/html5-boilerplate) ![GitHub contributors](https://img.shields.io/github/contributors/h5bp/html5-boilerplate?label=HTML5-Boilerplate%20Contributors) 
 
 A bunch of people creating open source software. Fork a project and get involved!
 
